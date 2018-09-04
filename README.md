@@ -5,3 +5,9 @@ source code for php simple crud with features:
 - validation
 - html special chars
 - mysql real escape string
+- upload data will expired after 3 weeks
+
+# Instalation
+- download / clone source code
+- export file sql to db
+- run localhost
